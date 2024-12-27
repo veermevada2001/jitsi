@@ -7,10 +7,7 @@
   "logoClickUrl":"https://www.bloquelabs.com",
   "logoImageUrl":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
   "defaultLanguage":"zhTW",
-  "welcomepage": {
-    "appDescription": "Your platform for secure, high-quality video meetings.",
-    "headerTitle": "Welcome to [Your Company]",
-    "headerSubtitle": "Connect with ease and security.",
-    "title": "[Your Company] Meet"
+  "header": {
+    "title": "Welcome to Custom Jitsi Meet"
   }
 }
