@@ -1,4 +1,6 @@
 {
+  "appName": "YourAppName",
+  "backgroundColor": "#f0f0f0",
   "inviteDomain":"test.example.com",
   "backgroundColor":"#fff",
   "backgroundImageUrl":"https://www.impactmeet.in/assets/img/logo.png",
