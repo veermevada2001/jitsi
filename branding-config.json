@@ -1,0 +1,36 @@
+{
+  "theme": {
+    "primaryColor": "#2196F3",
+    "secondaryColor": "#FFC107",
+    "backgroundColor": "#FAFAFA",
+    "textColor": "#212121",
+    "fontFamily": "Roboto, sans-serif"
+  },
+  "logo": {
+    "url": "https://cdn.example.com/assets/images/logo.png",
+    "altText": "Dev Company Logo"
+  },
+  "favicon": {
+    "url": "https://cdn.example.com/assets/images/favicon.ico"
+  },
+  "brandName": "Dev Example Corp",
+  "header": {
+    "backgroundColor": "#1E88E5",
+    "textColor": "#FFFFFF"
+  },
+  "footer": {
+    "backgroundColor": "#0D47A1",
+    "textColor": "#FFFFFF",
+    "copyrightText": "© 2024 Dev Example Corp. All rights reserved."
+  },
+  "features": {
+    "enableDarkMode": true,
+    "customHeaderImage": "https://cdn.example.com/assets/images/header-bg.jpg"
+  },
+  "socialLinks": {
+    "facebook": "https://facebook.com/dev-example",
+    "twitter": "https://twitter.com/dev-example",
+    "linkedin": "https://linkedin.com/company/dev-example"
+  },
+  "timestamp": "2024-12-27T10:00:00Z"
+}
