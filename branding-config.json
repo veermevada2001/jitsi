@@ -8,11 +8,6 @@
   "avatarBackgrounds": ["#12A378", "linear-gradient(125.83deg, #000 0%, #FFF 99.09%)"],
   "premeetingBackground": "url(https://mycompany.com/images/premeetingBackground.png)",
   "virtualBackgrounds": ["https://my.img01.jpg", "https://my.img02.jpg"],
-  "labels": {
-    "en": "https://myenglishlabels.json",
-    "fr": "https://myfrenchlabels.json",
-    "ptBR": "https://mybrazilianlabels.json"
-  },
   "customIcons": {
     "IconArrowUp": "https://example.com/arrow-up.svg",
     "IconDownload": "https://example.com/download.svg",
